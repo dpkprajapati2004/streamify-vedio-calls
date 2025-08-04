@@ -37,12 +37,5 @@ Tools: Git, VS Code
 🌐 https://streamify-vedio-calls.onrender.com/login
 
 
-├── backend
-│   ├── controllers
-│   ├── middleware
-│   ├── routes
-│   └── ...
-├── frontend
-│   ├── components
-│   ├── pages
-│   └── ...
+<img width="2000" height="2000" alt="i (1)" src="https://github.com/user-attachments/assets/79cac58a-23c7-4f76-b273-c53135791e98" />
+
